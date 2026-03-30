@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fb44444f0ccb86c",
+        "id": "1bf9441c9c67a5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "32a39ae11324425d",
+            "id": "c35fe8a1c8345dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +197,7 @@
   },
   "active": "490267959358696e",
   "lastOpenFiles": [
-    "test",
-    "test/hello.md"
+    "test/hello.md",
+    "test"
   ]
 }
