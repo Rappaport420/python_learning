@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "edf21916f2f21bbf",
+        "id": "cd5dd65e4557fbc3",
         "type": "tabs",
         "children": [
           {
-            "id": "2d0a43f61b855989",
+            "id": "0bc89f056209cbc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Translate to Chinese"
             }
           }
         ]
@@ -172,13 +176,13 @@
             }
           },
           {
-            "id": "38432634c4573d60",
+            "id": "9c313f93736103d1",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -186,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,13 +204,36 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2d0a43f61b855989",
+  "active": "9c313f93736103d1",
   "lastOpenFiles": [
-    "test 2.md",
+    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260401_142608.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "Coding Patterns/Coding Patterns.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "test/hello.md",
+    "test/Untitled.md",
+    "Coding Patterns",
+    "test 2.md",
     "test 3.md",
     "test"
   ]
