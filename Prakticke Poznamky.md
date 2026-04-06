@@ -14,6 +14,9 @@ tags:
 `a,b = b, a % b`
 - viem assignut viacero premien naraz
 
+# Creating a list of size n filled with 0
+a = [0] * n
+
 # List Comprehension #
 
 - Je rýchlejši ako klasicky for cyklus ale vie iba čitat nie prepisovat 
