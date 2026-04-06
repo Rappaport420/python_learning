@@ -1,14 +1,14 @@
 
 ---
-## 1. Greedy Algoritmus (Nenásytný prístup)
+## Greedy Algoritmus (Nenásytný prístup)
 
 Greedy algoritmus (v slovenčine **nenásytný algoritmus**) je tvojou prvou voľbou, keď potrebuješ niečo vyriešiť rýchlo a "sedliackym rozumom". Jeho filozofia je jednoduchá: **"V každom kroku urob to najlepšie rozhodnutie, ktoré sa ti v danej chvíli ponúka, a nikdy sa neobzeraj späť."**
 
-### Logika
+### 1. Hlavná logika
 
 Algoritmus buduje riešenie kúsok po kúsku. V každom bode si vyberie tú možnosť, ktorá prináša **okamžitý, lokálny úžitok**, v nádeji, že táto séria lokálnych optimálnych krokov povedie k **celkovému (globálnemu) optimu**.
 
-### Tri základné vlastnosti
+### 2. Tri základné vlastnosti
 
 - **Krátkozrakosť:** Rieši prítomnosť, neplánuje budúcnosť a neopravuje minulosť.
     
@@ -17,7 +17,7 @@ Algoritmus buduje riešenie kúsok po kúsku. V každom bode si vyberie tú mož
 - **Efektivita:** Zvyčajne je veľmi rýchly (často má zložitosť O(n) alebo O(nlogn)).
     
 
-### Kedy funguje (80% situácií v praxi)
+### 3. Kedy funguje (80% situácií v praxi)
 
 Greedy algoritmus je geniálny, ak má problém tzv. **Greedy Choice Property** – teda, že lokálne najlepšia voľba skutočne vedie k celkovému riešeniu.
 
@@ -30,7 +30,7 @@ Greedy algoritmus je geniálny, ak má problém tzv. **Greedy Choice Property** 
 - **Výber aktivít:** Ak máš zoznam prednášok, ktoré sa prekrývajú, a chceš ich stihnúť čo najviac, vždy si vyber tú, ktorá končí najskôr.
     
 
-### Kedy zlyháva (Pozor na pascu!)
+### 4. Kedy zlyháva (Pozor na pascu!)
 
 Greedy nefunguje tam, kde krátkodobá obeť prináša dlhodobý zisk.
 
@@ -41,13 +41,16 @@ Greedy nefunguje tam, kde krátkodobá obeť prináša dlhodobý zisk.
     - **Optimálne riešenie:** Vezme 3 a 3 (2 mince).
         
 
+### 5. Prečo ho milujeme?
+
 Aj keď Greedy algoritmus niekedy nenájde úplne dokonalé riešenie, často nájde **"dosť dobré"** riešenie extrémne rýchlo. V praxi (napr. pri spracovaní veľkých dát) je často lepšie mať 95% presnosť za 1 milisekundu než 100% presnosť za 10 minút.
 
+---
 
 > **Zlaté pravidlo do poznámok:** Ak je problém jednoduchý a zdá sa, že stačí brať "to najlepšie po ruke", skús Greedy. Ak to nefunguje, až potom vyťahuj ťažký kaliber ako Dynamické programovanie.
 
 ---
-## 2. Dynamické programovanie (Dynamic Programming - DP)
+## Dynamické programovanie (Dynamic Programming - DP)
 
 Zatiaľ čo Greedy ide slepo za okamžitým ziskom, DP je o niečo inteligentnejšie. Rozloží problém na podproblémy, ich výsledky si zapamätá (**memoizácia**) a neskôr ich znova použije.
 
