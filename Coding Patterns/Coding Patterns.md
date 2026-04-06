@@ -1,3 +1,5 @@
+
+---
 # Comprehensive Study Guide: Coding Interview Patterns and Algorithmic Strategies
 
 This study guide synthesizes essential coding patterns, data structures, and interview strategies derived from expert analysis of technical interview preparation. It is designed to move learners from rote memorization of individual problems toward a structured, pattern-based approach to problem-solving.

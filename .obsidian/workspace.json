@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -223,30 +223,30 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "519a824c8d168da1",
+  "active": "490267959358696e",
   "lastOpenFiles": [
+    "Coding Patterns/Coding Patterns.md",
+    "Optimizačné techniky.md",
     "Untitled.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-conversations/Coding_Patterns_Inquiry@20260401_154253.md",
     "link_na_tvoju_studijnu_prirucku.md",
     "Untitled.canvas",
-    "Coding Patterns/Coding Patterns.md",
     "link_na_poznamku_s_prikladmi.md",
     "link_na_poznamku.md",
-    "Optimizačné techniky.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/copilot-conversations/Create_File_in_Coding_Patterns@20260401_155834.md",
     "copilot/memory",
-    "copilot/copilot-conversations/Coding_Patterns_Inquiry@20260401_154253.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
