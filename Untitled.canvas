@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"4dded87e50052600","x":-600,"y":40,"width":400,"height":400,"type":"file","file":"Coding Patterns/Coding Patterns.md"},
-		{"id":"c6ad81eb7056a5f4","x":160,"y":22,"width":400,"height":418,"type":"file","file":"BASE.base"}
-	],
-	"edges":[]
-}
