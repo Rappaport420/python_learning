@@ -1,3 +1,16 @@
+---
+tags:
+  - Two_Pointers
+  - Sliding_Window
+  - Prefix_Sum
+  - Binary_search
+  - DFS
+  - BFS
+  - Backtracking
+Link: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+---
+
+---
 - **Two Pointers:** This involves using two indices to traverse an array or linked list, typically starting from opposite ends or moving at different speeds. It is particularly effective for problems involving **pairs, sorted arrays, or linked list cycles**.
 
 - **Sliding Window:** This pattern uses a dynamic window that moves across a sequence (like an array or string), expanding or shrinking based on specific conditions. It is ideal for problems dealing with **continuous subarrays or substrings**.
