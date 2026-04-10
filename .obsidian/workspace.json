@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programovacie Patterny.md",
+                "file": "Prakticke Poznamky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programovacie Patterny"
+              "title": "Prakticke Poznamky"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programovacie Patterny.md",
+                "file": "Prakticke Poznamky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programovacie Patterny"
+              "title": "Backlinks for Prakticke Poznamky"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programovacie Patterny.md",
+                "file": "Prakticke Poznamky.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Programovacie Patterny"
+              "title": "Outline of Prakticke Poznamky"
             }
           },
           {
@@ -253,10 +253,10 @@
   },
   "active": "8307278c7be75675",
   "lastOpenFiles": [
+    "Programovacie Patterny.md",
     "Two Pointers.md",
     "Coding Patterns/Coding Patterns.md",
     "Prakticke Poznamky.md",
-    "Programovacie Patterny.md",
     "Optimalizačne techniky.md",
     "Časová náročnosť.md",
     "Untitled.canvas",
