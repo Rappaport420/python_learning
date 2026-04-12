@@ -39,3 +39,12 @@ for i in candies:
 		result.append(False)
 return result
 ```
+
+
+SET je rychlejši ako string alebo list 
+preto ak napr som chcel hladat samohlasky v stringu spravil som si zoznam na porovnavanie obsahujuci všeky samohlasky. Na takyto usecase je najlepšie použit set: **vowels = {'a', 'e', 'i', 'o', 'u'}** 
+
+
+Sprav poznamky 
+
+SET vs LIST vs STRING vs HASHTABLE

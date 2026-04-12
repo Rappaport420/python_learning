@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prakticke Poznamky.md",
+                "file": "Optimalizačne techniky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prakticke Poznamky"
+              "title": "Optimalizačne techniky"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prakticke Poznamky.md",
+                "file": "Optimalizačne techniky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prakticke Poznamky"
+              "title": "Backlinks for Optimalizačne techniky"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prakticke Poznamky.md",
+                "file": "Optimalizačne techniky.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prakticke Poznamky"
+              "title": "Outline of Optimalizačne techniky"
             }
           },
           {
@@ -251,14 +251,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8307278c7be75675",
+  "active": "490267959358696e",
   "lastOpenFiles": [
+    "Časová náročnosť.md",
+    "Prakticke Poznamky.md",
     "Programovacie Patterny.md",
     "Two Pointers.md",
     "Coding Patterns/Coding Patterns.md",
-    "Prakticke Poznamky.md",
     "Optimalizačne techniky.md",
-    "Časová náročnosť.md",
     "Untitled.canvas",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
