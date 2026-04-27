@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sliding Window.md",
+                "file": "Časová náročnosť.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "Časová náročnosť"
             }
           },
           {
@@ -293,14 +293,14 @@
   },
   "active": "f36b8db205f3fc52",
   "lastOpenFiles": [
-    "Two Pointers.md",
-    "Sliding Window.md",
-    "Programovacie Patterny.md",
-    "Prakticke Poznamky.md",
+    "Optimalizačne techniky.md",
     "Pamäťová náročnosť.md",
+    "Prakticke Poznamky.md",
+    "Programovacie Patterny.md",
+    "Sliding Window.md",
+    "Two Pointers.md",
     "Časová náročnosť.md",
     "Linked sprava.md",
-    "Optimalizačne techniky.md",
     "Coding Patterns/Coding Patterns.md",
     "Untitled.canvas",
     "copilot/copilot-custom-prompts/Remove URLs.md",
