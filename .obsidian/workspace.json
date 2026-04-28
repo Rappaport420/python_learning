@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programovacie Patterny.md",
+                "file": "Prakticke Poznamky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programovacie Patterny"
+              "title": "Prakticke Poznamky"
             }
           }
         ]
@@ -208,13 +208,13 @@
   },
   "active": "8307278c7be75675",
   "lastOpenFiles": [
+    "Set Hash Table.md",
+    "Prakticke Poznamky.md",
+    "Programovacie Patterny.md",
     "Časová náročnosť.md",
     "Two Pointers.md",
-    "Programovacie Patterny.md",
-    "Prakticke Poznamky.md",
     "Optimalizačne techniky.md",
     "Roadmaps.md",
-    "Set Hash Table.md",
     "Sliding Window.md",
     "Linked sprava.md",
     "Pamäťová náročnosť.md",

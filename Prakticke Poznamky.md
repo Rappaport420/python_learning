@@ -21,7 +21,7 @@ Vytvorenie listu plneho nul
 # Creating a list of size n filled with 0
 a = [0] * n
 ```
-# List Comprehension #
+### List Comprehension #
 
 - Je rýchlejši ako klasicky for cyklus ale vie iba čitat nie prepisovat 
 
@@ -43,6 +43,23 @@ return result
 
 SET je rychlejši ako string alebo list 
 preto ak napr som chcel hladat samohlasky v stringu spravil som si zoznam na porovnavanie obsahujuci všeky samohlasky. Na takyto usecase je najlepšie použit set: **vowels = {'a', 'e', 'i', 'o', 'u'}** 
+
+### Unikátne hodnoty #
+Najrychlejši sposob deduplikacie listu je konvertovat na SET a potom spat na list 
+
+```
+unikaty = list(set(nums))
+```
+
+### CHAR Counter
+Ked chceme spočitat vyskyty znakov napr v stringu a zapisat to do slovnika narýchješi sposobj je funkcia **Counter()**
+
+```
+counts1 = Counter(word1)  
+counts2 = Counter(word2)
+```
+
+
 
 
 Sprav poznamky 
