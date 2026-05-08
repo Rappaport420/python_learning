@@ -7,7 +7,7 @@ tags:
 
 `result = []`
 `"".join(result)`
-- result je pole ktoreho obsah lepime na prazdny string a vraciama string - konverzia listu na string 
+- konverzia listu na string 
 `return " ".join(my_list[::-1])`
 - vlozi medzery medzi polozky listu 
 
@@ -60,6 +60,15 @@ counts2 = Counter(word2)
 ```
 
 
+### Stack
+
+Funkcia .pop() ktora maže poslednu hodnotu zaroven aj vracia hodnotu ktoru maže takže s nou viem rovno pracovat 
+
+Priklad
+```
+num = stack.pop() + num
+```
+ - do num pridame hodnotu ktoru mažeme, pridavame ju na zaciatok num čim robime aj revert.
 
 
 Sprav poznamky 

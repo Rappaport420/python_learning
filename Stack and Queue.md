@@ -23,3 +23,4 @@ V Pythone na Stack nepotrebuješ žiadnu špeciálnu knižnicu. Používa sa kla
 - **História prehliadača:** Stránky sa ukladajú na seba. Keď klikneš na šípku späť, "vyskočíš" z aktuálnej stránky na tú predošlú.
 
 - **Zátvorky v kóde:** Keď kompilátor kontroluje, či si správne uzavrel všetky `()`, `[]` a `{}`, používa na to Stack.
+
