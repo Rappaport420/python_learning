@@ -33,3 +33,22 @@ Prvotne nastrely:
 
 1. **Chatky, domčeky**
 2. **AirBnB na zaujimavych miestach** - potrebne zamysliet sa nad manažmentom 
+
+## Logistika
+
+Guide: https://china.docshipper.com/en/freight-shipping-china-slovakia/
+
+Podla toho čo budeme predavat je potrebne zistit aky je najvhodnejši sposob prepravy
+- Lietadlo
+- Loď
+- Vlak
+#### Loď
+Najlacnejšie ale najpomalšie. Čo je tu problem že slovensko nie je blizko Europskych gateway portov takže stale treba riešit prepravu z Portu k nam 
+
+### Incoterms
+
+**Incoterms** (International Commercial Terms) are ==11 standardized trade rules published by the [International Chamber of Commerce](https://iccwbo.org/business-solutions/incoterms-rules/)==. They clearly define the responsibilities, costs, and risks between buyers and sellers in international and domestic transactions.
+
+![[Pasted image 20260526211843.png]]
+
+Pri nakupe z činy je potrebne určit kde až nam to doruči seller/forwarder 
