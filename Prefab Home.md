@@ -52,3 +52,19 @@ Najlacnejšie ale najpomalšie. Čo je tu problem že slovensko nie je blizko Eu
 ![[Pasted image 20260526211843.png]]
 
 Pri nakupe z činy je potrebne určit kde až nam to doruči seller/forwarder 
+
+Na to by sme optimalne najali firmu napr Guide hore mam od jedenj vyzera fajn
+
+
+### Ako prepravit bunku ? 
+
+Priklad: 
+https://terrabox.sk/vessel-v9/
+Poznamka: Odporučam prečitat FAQ vela cennych informacii 
+tato bunka ma rozmery
+- dĺžka: 11,5 m
+- šírka: 3,4 m
+- výška: 3,4 m
+
+Ale Kontainery su bud 20ft (6m) alebo 40ft (12m) dlhe. V oboch pripadoch je širka kontainera 2,3m 
+![[Pasted image 20260527200019.png]]
