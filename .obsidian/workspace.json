@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Depth Search Algorithm.md",
+                "file": "Roadmaps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Depth Search Algorithm"
+              "title": "Roadmaps"
             }
           }
         ],
@@ -112,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -242,8 +244,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -252,8 +254,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -279,11 +281,11 @@
   },
   "active": "55fe6740e0ffa80a",
   "lastOpenFiles": [
-    "Linked List.md",
+    "Two Pointers.md",
     "Depth Search Algorithm.md",
+    "Linked List.md",
     "Sliding Window.md",
     "Prakticke Poznamky.md",
-    "Two Pointers.md",
     "Stack and Queue.md",
     "Prefab Copy pasta Claude.md",
     "Roadmaps.md",
