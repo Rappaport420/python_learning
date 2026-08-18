@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding Patterns/Coding Patterns.md",
+                "file": "Prefab Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding Patterns"
+              "title": "Prefab Home"
             }
           }
         ],
@@ -281,6 +281,7 @@
   },
   "active": "55fe6740e0ffa80a",
   "lastOpenFiles": [
+    "Coding Patterns/Coding Patterns.md",
     "Časová náročnosť.md",
     "Depth Search Algorithm.md",
     "Linked List.md",
@@ -296,7 +297,6 @@
     "Sliding Window.md",
     "Stack and Queue.md",
     "Two Pointers.md",
-    "Coding Patterns/Coding Patterns.md",
     "Prefab Copy pasta Claude.md",
     "Set Hash Table.md",
     "Linked sprava.md",
