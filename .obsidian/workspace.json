@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prefab Home.md",
+                "file": "Programovacie Patterny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prefab Home"
+              "title": "Programovacie Patterny"
             }
           }
         ],
@@ -284,7 +284,6 @@
     "Coding Patterns/Coding Patterns.md",
     "Časová náročnosť.md",
     "Depth Search Algorithm.md",
-    "Linked List.md",
     "Optimalizačne techniky.md",
     "Pamäťová náročnosť.md",
     "Pasted image 20260526211843.png",
@@ -297,6 +296,7 @@
     "Sliding Window.md",
     "Stack and Queue.md",
     "Two Pointers.md",
+    "Linked List.md",
     "Prefab Copy pasta Claude.md",
     "Set Hash Table.md",
     "Linked sprava.md",
