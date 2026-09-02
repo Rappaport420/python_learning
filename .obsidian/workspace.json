@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programovacie Patterny.md",
+                "file": "Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programovacie Patterny"
+              "title": "Projects"
             }
           }
         ],
@@ -281,6 +281,10 @@
   },
   "active": "55fe6740e0ffa80a",
   "lastOpenFiles": [
+    "Linked List.md",
+    "Prakticke Poznamky.md",
+    "Stack and Queue.md",
+    "Programovacie Patterny.md",
     "Coding Patterns/Coding Patterns.md",
     "Časová náročnosť.md",
     "Depth Search Algorithm.md",
@@ -288,15 +292,11 @@
     "Pamäťová náročnosť.md",
     "Pasted image 20260526211843.png",
     "Pasted image 20260527200019.png",
-    "Prakticke Poznamky.md",
     "Prefab Home.md",
-    "Programovacie Patterny.md",
     "Projects.md",
     "Roadmaps.md",
     "Sliding Window.md",
-    "Stack and Queue.md",
     "Two Pointers.md",
-    "Linked List.md",
     "Prefab Copy pasta Claude.md",
     "Set Hash Table.md",
     "Linked sprava.md",
